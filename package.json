@@ -1,0 +1,25 @@
+{
+  "name": "node-drizzleorm-mysql_projecttemplate",
+  "version": "1.0.0",
+  "description": "Simple Startup Project - can be used as template for more complex stuff",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Equindar/Node-DrizzleORM-MySQL_ProjectTemplate.git"
+  },
+  "author": "Equindar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Equindar/Node-DrizzleORM-MySQL_ProjectTemplate/issues"
+  },
+  "homepage": "https://github.com/Equindar/Node-DrizzleORM-MySQL_ProjectTemplate#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}
